@@ -11,6 +11,6 @@
         "source": "https://github.com/paper-cube/user-db-migration"
     },
     "require": {
-        "paper-cube/user": "*"
+        "paper-cube/user-db": "*"
     },
 }
